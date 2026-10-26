@@ -60,7 +60,7 @@ El \*\*FC Barcelona\*\* es para mí el mejor equipo del mundo. Nuestro lema es \
 
 
 
-!\[Escudo del Barça](assets/mi-imagen.png)
+![Escudo del Barça](assets/mi-imagen.png)
 
 
 
