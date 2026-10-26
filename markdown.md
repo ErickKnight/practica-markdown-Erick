@@ -68,7 +68,7 @@ El \*\*FC Barcelona\*\* es para mí el mejor equipo del mundo. Nuestro lema es \
 
 
 
-!\[Spotify camp noou](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chelsea\_on\_Tour\_-\_Barcelona\_311006.jpg/120px-Chelsea\_on\_Tour\_-\_Barcelona\_311006.jpg?utm\_source=commons.wikimedia.org\&utm\_campaign=parser\&utm\_content=thumbnail)
+!\[Spotify camp noou]([https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chelsea\_on\_Tour\_-\_Barcelona\_311006.jpg/120px-Chelsea\_on\_Tour\_-\_Barcelona\_311006.jpg?utm\_source=commons.wikimedia.org\&utm\_campaign=parser\&utm\_content=thumbnail](https://commons.wikimedia.org/wiki/FC_Barcelona))
 
 
 
